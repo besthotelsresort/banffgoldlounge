@@ -1,0 +1,2 @@
+# banffgoldlounge
+Static site: banffgoldlounge
